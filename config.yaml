@@ -6,6 +6,7 @@ module:
 params:
     mainSections:
         - gallery
+        - post
     featuredImageField: image
     rssFullContent: false
     favicon: /favicon.ico
